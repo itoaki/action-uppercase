@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/itoaki/action-uppercase/actions"><img alt="GitHub Actions status" src="https://github.com/itoaki/action-uppercase/workflows/build-test/badge.svg"></a>
-</p>
-
 # Uppercase Action
 
 This action converts a text to uppercase.
