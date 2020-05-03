@@ -1,3 +1,5 @@
+![test](https://github.com/itoaki/action-uppercase/workflows/test/badge.svg)
+
 # Uppercase Action
 
 This action converts a text to uppercase.
