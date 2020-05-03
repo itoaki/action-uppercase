@@ -17,7 +17,7 @@ The text converted to uppercase.
 ## Example Usage
 
 ```yaml
-uses: itoaki/uppercase@v1.0.0
+uses: itoaki/action-uppercase@v1.0.0
 with:
   text: Hello, World!
 ```
