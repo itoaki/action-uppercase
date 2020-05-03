@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/github-actions-up-and-running/uppercase/actions"><img alt="GitHub Actions status" src="https://github.com/github-actions-up-and-running/uppercase/workflows/build-test/badge.svg"></a>
+  <a href="https://github.com/itoaki/action-uppercase/actions"><img alt="GitHub Actions status" src="https://github.com/itoaki/action-uppercase/workflows/build-test/badge.svg"></a>
 </p>
 
 # Uppercase Action
